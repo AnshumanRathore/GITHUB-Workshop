@@ -1,0 +1,5 @@
+{
+  "name": "Java Codespace",
+  "image": "mcr.microsoft.com/vscode/devcontainers/java:17",
+  "postCreateCommand": "javac src/Main.java"
+}
